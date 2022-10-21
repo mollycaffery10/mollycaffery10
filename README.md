@@ -1,4 +1,4 @@
-### Hello, my name is Molly👋
+### 👋 Hello, my name is Molly
 - I am a driven programmer that likes to develop software solutions.
 - Fast learner that is eager to explore new technologies.
 
